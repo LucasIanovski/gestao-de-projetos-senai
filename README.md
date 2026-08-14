@@ -6,7 +6,7 @@ Este repositório contém os registros individuais de atividades, resumos de aul
 
 ## 👨‍💻 Informações do Estudante
 
-* **Estudante:** [Seu Nome Completo Aqui]
+* **Estudante:** Lucas Ianovski
 * **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 * **Instituição:** SENAI
 * **Disciplina:** Gestão de Projetos
