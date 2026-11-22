@@ -1,82 +1,60 @@
-# 📝 Anotações de Aula — Aula 01: Apresentação da Disciplina e Contextualização
+# Resumo da Aula 01 — Apresentação e contextualização
 
-- **Disciplina:** Gestão de Projetos
-- **Professor:** Prof. Me. Deivison S. Takatu
-- **Curso:** Análise e Desenvolvimento de Sistemas (ADS) — SENAI
-- **Aluno:** [Seu Nome Completo]
-- **Data:** Aula 01
+**Disciplina:** Gestão de Projetos
 
----
+**Professor:** Prof. Me. Deivison S. Takatu
 
-## 🎯 1. Visão Geral e Metodologia da Disciplina
+**Curso:** Análise e Desenvolvimento de Sistemas — SENAI
 
-Na primeira aula, o professor Deivison apresentou a estrutura e os objetivos da disciplina. O curso adota a metodologia **PBL (*Project-Based Learning* / Aprendizagem Baseada em Projetos)**, na qual a teoria é aplicada na prática através do desenvolvimento de soluções para problemas reais de software e arquitetura de sistemas.
+## O que foi apresentado
 
-A ementa integra duas visões fundamentais da gestão:
-* **Gestão Tradicional:** Conceitos fundamentais de planejamento e organização baseados nos padrões globais do PMI / Guia PMBOK.
-* **Metodologias Ágeis:** Práticas de frameworks e abordagens modernas como Scrum, Kanban e XP (*Extreme Programming*).
+A aula apresenta a disciplina e situa a gestão de projetos no trabalho de desenvolvimento de soluções. A proposta do semestre é relacionar conceitos de gerenciamento com atividades práticas e com o projeto desenvolvido pela turma.
 
----
+Um **projeto** é um esforço temporário realizado para criar um produto, serviço ou resultado único. Temporário significa que existe um começo e um encerramento; não significa necessariamente que o projeto seja curto. O resultado é único porque atende a um objetivo e a um contexto próprios.
 
-## 💡 2. Conceito Fundamental: O que é um Projeto?
+Projetos podem ser organizados em níveis maiores:
 
-O professor explicou detalhadamente a definição essencial que guia toda a nossa matéria:
+- **Projeto:** produz uma entrega ou resultado específico.
+- **Programa:** coordena projetos relacionados para obter benefícios em conjunto.
+- **Portfólio:** organiza projetos e programas de acordo com prioridades e objetivos estratégicos.
 
-> *"Um projeto é um esforço temporário, com início e fim definidos, criado para gerar um produto, serviço ou resultado único. Ou seja, um projeto é a alocação de recursos e organização de tarefas orientadas para alcançar um objetivo específico dentro de prazos e custos determinados."*
+O gerenciamento aplica conhecimentos, habilidades, ferramentas e técnicas ao trabalho do projeto para atender aos requisitos. Na prática, envolve definir o que será entregue, organizar pessoas e recursos, acompanhar o andamento e tratar mudanças e desvios.
 
-### Anotações principais sobre o conceito:
-* **Temporário:** Todo projeto possui uma data de início e término claramente estabelecidas (não é um processo contínuo ou rotina operacional).
-* **Resultado Único:** O produto, sistema ou serviço final gerado é exclusivo.
-* **Restrições e Gerenciamento:** Gerenciar um projeto significa equilibrar constantemente o **escopo** (o que deve ser feito), o **tempo** (prazos do cronograma), os **custos** e a **alocação de recursos** (equipe, ferramentas).
+## Projeto e operação
 
----
+Uma operação é contínua e repetitiva; um projeto é temporário e busca um resultado específico. Um projeto pode criar ou alterar uma operação. Por exemplo, desenvolver e implantar um sistema é projeto; operar e dar suporte contínuo ao sistema depois da implantação é atividade operacional.
 
-## 🏛️ 3. O que é o PMI e o Guia PMBOK?
+## Papel do gerente de projetos
 
-O professor apresentou a base conceitual da gestão tradicional de projetos e como ela se consolidou no mercado:
+O gerente coordena o trabalho, facilita a comunicação, ajuda a equipe a tomar decisões e acompanha objetivos, entregas, prazos, recursos, riscos e partes interessadas. O trabalho depende tanto de conhecimento técnico de gerenciamento quanto de habilidades interpessoais, como comunicação, liderança, negociação e resolução de conflitos.
 
-### 🏢 O PMI (*Project Management Institute*)
-* **O que é:** É a maior associação profissional sem fins lucrativos do mundo dedicada ao avanço da gestão de projetos.
-* **Papel no Mercado:** O PMI estabelece padrões globais, realiza pesquisas e concede certificações profissionais reconhecidas mundialmente (como a PMP - *Project Management Professional*).
+Os projetos precisam contribuir para resultados relevantes para a organização. Entregar o produto não é suficiente se o resultado não atender à necessidade que justificou o projeto.
 
-### 📘 O Guia PMBOK (*Project Management Body of Knowledge*)
-* **O que é:** É o principal guia publicado pelo PMI, reunindo um conjunto de boas práticas, terminologias, diretrizes e processos padronizados.
-* **Ponto de atenção destacado pelo professor:** O PMBOK **não é uma "receita de bolo" nem um método rígido**, mas sim um repositório de boas práticas testadas por profissionais no mundo todo que devem ser adaptadas à realidade de cada projeto.
+## Para lembrar
 
----
+1. Projeto tem início e fim e produz resultado único.
+2. Programa coordena projetos relacionados; portfólio organiza iniciativas com visão estratégica.
+3. Gerenciar é organizar e acompanhar o trabalho para atender aos requisitos e gerar valor.
+4. Projetos e operações se relacionam, mas têm objetivos e duração diferentes.
 
-## 📊 4. Critérios e Composição de Avaliação
+## Fontes do professor
 
-A nota final do semestre é dividida nas seguintes categorias:
+- Takatu, Deivison S. [Aula 01 — Apresentação da Disciplina e Contextualização (PDF)](https://github.com/deivisontakatu/aula-gestao-projetos/blob/main/Aulas/Aula%2001%20-%20Apresenta%C3%A7%C3%A3o%20da%20Disciplina%20e%20Contextualiza%C3%A7%C3%A3o.pdf).
+- Takatu, Deivison S. [01 — Introdução (material de apoio)](https://github.com/deivisontakatu/aula-gestao-projetos/blob/main/01%20-%20Introdu%C3%A7%C3%A3o.md).
+- [Repositório da disciplina](https://github.com/deivisontakatu/aula-gestao-projetos).
 
-| Categoria | Peso | Detalhamento / Componentes |
-| :--- | :---: | :--- |
-| **Avaliação Docente** | **55%** | • **Desenvolvimento de Projeto / Mini TCC (20%):** Documentação técnica completa.<br>• **Apresentação do Projeto (20%):** Defesa final da gestão e solução.<br>• **Atividades Semanais (15%):** Registros contínuos e resumos no GitHub. |
-| **Projeto Integrador (PI)** | **35%** | Avaliação global do projeto de software desenvolvido. |
-| **Autoavaliação** | **10%** | Avaliação individual do desempenho e contribuição no grupo. |
+## Meu entendimento da aula
 
----
+Entendi que a gestão começa pela razão de existir do projeto. Antes de pensar em tarefas ou ferramentas, a equipe precisa entender qual problema quer resolver e qual resultado será considerado útil. O prazo definido diferencia um projeto de uma rotina contínua, e o resultado único explica por que cada projeto exige decisões próprias. O gerente não trabalha isolado: precisa aproximar estratégia, equipe, usuários e demais interessados para que a entrega tenha valor (Carvalho, 2018; PMI, 2017).
 
-## 📦 5. Entregáveis do Semestre
+Também ficou clara a diferença entre produzir uma entrega e obter o benefício esperado. Um sistema pode ser concluído e ainda assim não resolver a necessidade do usuário. Por isso, o objetivo e os critérios de sucesso precisam orientar as decisões desde o início.
 
-1. **Atividades Semanais (GitHub):** Resumos das aulas e entregas continuadas registradas no repositório individual de cada aluno.
-2. **Backlog & Benchmarking:** Organização detalhada dos requisitos/tarefas e análise comparativa de soluções existentes no mercado.
-3. **Aplicação Prática:** Desenvolvimento das telas, funcionalidades e código da solução de software.
-4. **Documentação Final ("Mini TCC"):** Relatório estruturado cobrindo Concepção, Planejamento, Execução, Resultados, Desafios Enfrentados e Análise Crítica.
-5. **Apresentação Final:** Defesa do projeto, demonstrando o produto funcionando e o processo de gestão adotado perante o professor.
+## Exemplo de aplicação no FieldOps
 
----
+Se a equipe planejar uma melhoria no fluxo de inspeções do FieldOps, o projeto deve começar com uma justificativa concreta, como reduzir o tempo de registro de uma inspeção em campo ou diminuir erros no preenchimento. A equipe define um resultado mensurável, identifica técnicos e supervisores como interessados, delimita o que será entregue e combina como avaliar a solução. Manter e operar essa funcionalidade depois da implantação passa a ser trabalho recorrente do produto, diferente do esforço temporário de implementá-la.
 
-## 🛠️ 6. Ferramentas e Tecnologias Obrigatórias
+## Referências bibliográficas
 
-* **Git & GitHub:** Versionamento do código, histórico individual de commits e repositório oficial das entregas.
-* **Markdown (`.md`):** Linguagem de marcação para padronização de documentações, resumos e relatórios.
-* **Ferramentas Ágeis:** Organização visual de tarefas via quadros Kanban, gestão de Backlog e VS Code.
-
----
-
-## 🚀 7. Observações Práticas e Próximos Passos
-
-* **Formação dos Grupos:** Equipes compostas por **3 a 5 integrantes** (a mesma formação mantida ao longo do semestre).
-* **Avaliação Individual:** Cada integrante deve manter seu próprio repositório no GitHub para acompanhamento das entregas individuais pelo professor.
-* **Ação Imediata:** Atualizar o arquivo no repositório local, realizar o commit/push e iniciar a definição do grupo e da ideia do projeto prático.
+- CARVALHO, Fábio Câmara Araújo de. *Gestão de projetos*. 2. ed. São Paulo: Pearson, 2018.
+- PROJECT MANAGEMENT INSTITUTE. *Um guia do conhecimento em gerenciamento de projetos (Guia PMBOK)*. 6. ed. Newtown Square: PMI, 2017.
+- BUNGART, José Wagner; POSSARLE, Roberto. *Metodologia de projetos: conceitos, planejamento e desenvolvimento*. São Paulo: SENAI-SP Editora, 2017.
