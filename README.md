@@ -1,55 +1,53 @@
-# 🚀 Gestão de Projetos — ADS SENAI
+# Gestão de Projetos — ADS SENAI
 
-Este repositório contém os registros individuais de atividades, resumos de aulas, documentações e entregáveis da disciplina de **Gestão de Projetos** do curso de **Análise e Desenvolvimento de Sistemas (ADS)** no **SENAI**.
+Repositório individual de resumos e materiais da disciplina de **Gestão de Projetos**, ministrada pelo Prof. Me. Deivison S. Takatu.
 
----
+## Resumos das aulas
 
-## 👨‍💻 Informações do Estudante
+| Aula | Tema | Resumo |
+|---:|---|---|
+| 01 | Apresentação e contextualização | [Resumo da Aula 01](./aulas/aula-01/resumo-aula01.md) |
+| 02 | Fundamentos do gerenciamento de projetos | [Resumo da Aula 02](./aulas/aula-02/resumo-aula02.md) |
+| 03 | Processos e áreas de conhecimento | [Resumo da Aula 03](./aulas/aula-03/resumo-aula03.md) |
+| 04 | Planejamento do projeto | [Resumo da Aula 04](./aulas/aula-04/resumo-aula04.md) |
+| 05 | Custos e qualidade | [Resumo da Aula 05](./aulas/aula-05/resumo-aula05.md) |
+| 06 | Recursos humanos e comunicações | [Resumo da Aula 06](./aulas/aula-06/resumo-aula06.md) |
+| 07 | Gerenciamento dos riscos | [Resumo da Aula 07](./aulas/aula-07/resumo-aula07.md) |
+| 08 | Aquisições e partes interessadas | [Resumo da Aula 08](./aulas/aula-08/resumo-aula08.md) |
 
-* **Estudante:** Lucas Ianovski
-* **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
-* **Instituição:** SENAI
-* **Disciplina:** Gestão de Projetos
-* **Professor:** Prof. Me. Deivison S. Takatu
-* **Semestre/Ano:** 2026/2
+## Auditoria dos materiais do professor
 
----
+O repositório [aula-gestao-projetos](https://github.com/deivisontakatu/aula-gestao-projetos) apresenta oito PDFs de aula, materiais de apoio sobre os tópicos de gerenciamento, atividades, plano de ensino, referências e templates. Os oito resumos deste repositório seguem os títulos e a sequência dos PDFs.
 
-## 📌 Sobre a Disciplina
+Na árvore consultada, os arquivos Markdown **04 — Integração**, **05 — Escopo**, **06 — Tempo** e **10 — Comunicações** existem, mas estão vazios. Os resumos desses assuntos foram preparados com base nos slides correspondentes, nos materiais textuais relacionados e nos templates disponibilizados pelo professor; por isso, os links de cada resumo permitem conferir as fontes. Os tópicos 01–03 e 07–09 e 11–13 têm materiais Markdown preenchidos.
 
-A disciplina é ministrada utilizando a metodologia **PBL (*Project-Based Learning* / Aprendizagem Baseada em Projetos)**. O objetivo central é vivenciar na prática os conceitos tradicionais de gestão de projetos (alinhados ao PMBOK/PMI) e metodologias ágeis (Scrum, Kanban, XP) integrados ao desenvolvimento de software.
+O repositório do professor também contém uma atividade de portfólio e programas, uma descrição das avaliações do projeto, plano de ensino, referências e modelos para EAP e cronograma. Esses materiais complementam as aulas e foram considerados para contextualizar o resumo de planejamento.
 
----
+## Auditoria deste repositório
 
-## 📁 Estrutura do Repositório
+Antes da revisão, havia o README e três resumos locais. A estrutura não representava todas as oito aulas e os temas dos resumos 02 e 03 não correspondiam à sequência oficial dos PDFs: Integração/TAP e Escopo estavam apresentados como aulas 02 e 03, embora as fontes do professor identifiquem esses encontros como Fundamentos e Processos e Áreas de Conhecimento. Os resumos foram reorganizados para alinhar título, conteúdo e fonte; o índice foi atualizado para oito aulas.
+
+Os resumos são anotações em linguagem direta, com explicação do entendimento de cada aula, exemplo de aplicação no FieldOps e citações bibliográficas. Os tópicos foram conferidos com os materiais textuais acessíveis no repositório do professor; os PDFs estão relacionados como fontes originais, mas não foi possível extrair seu texto neste ambiente. Por isso, não atribuí páginas nem reproduzi citações literais dos livros. Consulte os arquivos originais para conferir explicações completas e eventuais atualizações.
+
+Na revisão dos resumos antigos também foi corrigida a contagem de processos: a 5ª edição do PMBOK descreve 47 processos; a 6ª edição, usada como referência histórica para os materiais da disciplina, descreve 49 processos e 10 áreas de conhecimento.
+
+## Estrutura
 
 ```text
 gestao-de-projetos-senai/
-├── README.md               <- Visão geral e índice de entregáveis
-├── aulas/                  <- Registros e resumos das aulas
-│   └── aula-01/
-│       └── resumo-aula01.md
-└── projeto/                <- Documentação e artefatos do projeto prático
+├── README.md
+└── aulas/
+    ├── aula-01/resumo-aula01.md
+    ├── aula-02/resumo-aula02.md
+    ├── aula-03/resumo-aula03.md
+    ├── aula-04/resumo-aula04.md
+    ├── aula-05/resumo-aula05.md
+    ├── aula-06/resumo-aula06.md
+    ├── aula-07/resumo-aula07.md
+    └── aula-08/resumo-aula08.md
 ```
 
-## 📑 Tabela de Entregas e Aulas
+## Referências gerais
 
-| Aula | Tema / Atividade | Arquivo / Link | Status |
-| :---: | :--- | :---: | :---: |
-| **01** | Apresentação e Contextualização da Disciplina | [`resumo-aula01.md`](./aulas/aula-01/resumo-aula01.md) | 🟢 Concluído |
-| **02** | *A definir* | - | ⏳ Pendente |
-| **03** | *A definir* | - | ⏳ Pendente |
-
----
-
-## 🛠️ Tecnologias e Ferramentas Utilizadas
-
-* **Versionamento & Documentação:** Git, GitHub e Markdown (`.md`)
-* **Metodologias de Gestão:** Scrum, Kanban, PMBOK
-* **Ferramentas Práticas:** GitHub Projects / Kanban, VS Code
-
----
-
-## 📜 Licença
-
-Este repositório tem fins estritamente acadêmicos.
+- Takatu, Deivison S. [Repositório de materiais da disciplina](https://github.com/deivisontakatu/aula-gestao-projetos).
+- Takatu, Deivison S. [Plano de Ensino — Gestão de Projetos (PDF)](https://github.com/deivisontakatu/aula-gestao-projetos/tree/main/Plano%20de%20Ensino).
