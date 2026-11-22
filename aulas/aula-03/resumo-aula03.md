@@ -1,289 +1,68 @@
-# 📝 Anotações de Aula — Aula 03: Processos, Áreas de Conhecimento, Escopo e EAP
-
-**Disciplina:** Gestão de Projetos
+# Resumo da Aula 03 — Processos e áreas de conhecimento
 
 **Professor:** Prof. Me. Deivison S. Takatu
 
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS) — SENAI
+**Disciplina:** Gestão de Projetos
 
-**Aluno:** [Seu Nome Completo]
+## Processos de gerenciamento
 
-**Data:** Aula 03
+Os processos organizam o trabalho necessário para iniciar, planejar, executar, acompanhar e encerrar um projeto. Eles se relacionam: informações produzidas em uma atividade podem servir de entrada para outra, e o resultado do acompanhamento pode levar a ajustes.
 
----
+Os cinco grupos de processos são:
 
-## 📚 1. O que é um Processo?
+| Grupo | Finalidade |
+|---|---|
+| Iniciação | Definir informações iniciais e autorizar o projeto ou uma fase |
+| Planejamento | Definir objetivos, escopo e como o trabalho será conduzido |
+| Execução | Realizar o trabalho e produzir as entregas |
+| Monitoramento e controle | Comparar o realizado com o planejado e tratar desvios e mudanças |
+| Encerramento | Formalizar a conclusão e registrar resultados e aprendizados |
 
-Na Aula 03, o professor explicou o conceito de **processo** dentro da Gestão de Projetos.
+Esses grupos não são necessariamente fases sequenciais. Monitoramento e controle acontece ao longo do projeto, junto às atividades de execução e planejamento.
 
-Um processo pode ser entendido como um **conjunto de atividades que transforma entradas em resultados**.
+## Áreas de conhecimento e integração
 
-Um exemplo simples seria:
+As áreas de conhecimento descrevem aspectos que precisam ser gerenciados. A referência apresentada no material inclui integração, escopo, cronograma, custos, qualidade, recursos, comunicações, riscos, aquisições e partes interessadas. Os grupos respondem **quando e com qual finalidade** processos são realizados; as áreas indicam **o que** está sendo gerenciado.
 
-> **Solicitação do cliente → Análise e desenvolvimento → Funcionalidade entregue**
+As áreas não funcionam isoladamente. Uma mudança de escopo pode afetar prazo, custo, qualidade, riscos, recursos e expectativas dos interessados. A integração é necessária para avaliar o impacto conjunto e manter os planos coerentes.
 
-Na gestão de projetos, os processos ajudam a **organizar, executar e controlar o trabalho**, evitando que as atividades sejam realizadas de maneira desorganizada.
+O controle de mudanças deve considerar a solicitação, seus impactos, a decisão responsável e a atualização dos artefatos aprovados. Assim, a equipe evita tratar alterações como decisões informais desconectadas do restante do plano.
 
-Quando um projeto não possui processos bem definidos, podem surgir problemas como **atrasos, retrabalho, falta de organização, aumento de custos e dificuldades para acompanhar o andamento do projeto**.
+## Dados e informações do projeto
 
----
+Dados observados durante a execução são analisados e transformados em informações úteis para acompanhamento e tomada de decisão. Relatórios ajudam a comunicar situação, progresso, problemas e previsões às pessoas interessadas.
 
-## 🔄 2. Grupos de Processos
+## Para lembrar
 
-Os processos de gerenciamento de projetos podem ser organizados em **cinco grandes grupos**:
+- Os processos interagem e podem ser adaptados ao contexto do projeto.
+- Grupos de processos não equivalem automaticamente às fases do ciclo de vida.
+- Áreas de conhecimento precisam ser integradas porque mudanças afetam mais de um aspecto.
+- Monitorar significa obter informações; controlar envolve avaliar e decidir ações.
 
-1. **Iniciação:** autorizar e definir o projeto.
-2. **Planejamento:** definir como o projeto será realizado.
-3. **Execução:** realizar o trabalho planejado.
-4. **Monitoramento e Controle:** acompanhar os resultados e corrigir possíveis desvios.
-5. **Encerramento:** finalizar e formalizar o projeto.
+## Fontes do professor
 
-Esses grupos representam **quando e com qual finalidade** o gerenciamento acontece durante o projeto.
+- Takatu, Deivison S. [Aula 03 — Processos e Áreas de Conhecimento (PDF)](https://github.com/deivisontakatu/aula-gestao-projetos/blob/main/Aulas/Aula%2003%20-%20Processos%20e%20%C3%81reas%20de%20Conhecimento.pdf).
+- Takatu, Deivison S. [03 — Processos de Gerenciamento de Projetos](https://github.com/deivisontakatu/aula-gestao-projetos/blob/main/03%20-%20Processos%20de%20Gerenciamento%20de%20Projetos.md).
+- Takatu, Deivison S. [Repositório de materiais da disciplina](https://github.com/deivisontakatu/aula-gestao-projetos).
 
----
+## Meu entendimento da aula
 
-## 🧩 3. Processos × Áreas de Conhecimento
+Os grupos de processos dão uma visão do trabalho de gerenciamento: iniciar, planejar, executar, acompanhar/controlar e encerrar. Eles não são um roteiro rígido de fases, nem exigem que cada grupo aconteça só uma vez. O projeto pode voltar ao planejamento ao receber novas informações, e o monitoramento ocorre durante a execução. As áreas de conhecimento ajudam a organizar os assuntos que precisam ser tratados, mas nenhuma deve ser gerenciada sem olhar os impactos nas demais (PMI, 2017).
 
-O professor explicou que existe uma diferença entre **Grupos de Processos** e **Áreas de Conhecimento**.
+Integração é a capacidade de conciliar essas decisões. Por exemplo, aceitar uma nova funcionalidade pode alterar escopo, custo, cronograma, riscos, qualidade, recursos e expectativas dos usuários. A solicitação deve ser analisada, decidida por quem tem autoridade e refletida nos planos e registros aprovados. Dados de execução só se tornam úteis quando são analisados e comunicados de forma adequada.
 
-- **Grupos de Processos:** mostram **quando e com qual finalidade** o gerenciamento acontece.
-- **Áreas de Conhecimento:** mostram **o que precisa ser gerenciado** no projeto.
+### Precisão sobre o PMBOK
 
-### 🍔 Exemplo: Aplicativo de Delivery
+Na referência histórica da 6ª edição, a estrutura possui 49 processos e 10 áreas de conhecimento. A 5ª edição tinha 47 processos. A lista de áreas continua útil para entender os materiais da disciplina, mas não é correto atribuir o número 47 de processos à 6ª edição (PMI, 2017).
 
-Um projeto de aplicativo de delivery pode passar pelos seguintes grupos:
+## Exemplo de aplicação no FieldOps
 
-| Grupo de Processo | Exemplo |
-| :--- | :--- |
-| **Iniciação** | Definição do objetivo e dos stakeholders |
-| **Planejamento** | Definição de escopo, prazo, custos e riscos |
-| **Execução** | Desenvolvimento do aplicativo |
-| **Monitoramento e Controle** | Acompanhamento de prazo, custos e qualidade |
-| **Encerramento** | Entrega do projeto e registro das lições aprendidas |
+Considere uma entrega para permitir que técnicos registrem inspeções com conexão instável. Na iniciação, a equipe define a necessidade e quem autoriza o trabalho. No planejamento, delimita o que deve funcionar sem conexão, quais dados serão sincronizados, critérios de aceitação, riscos, responsáveis e prazo. Na execução, implementa e documenta a entrega. No monitoramento, acompanha defeitos, progresso e mudanças; no encerramento, valida a aceitação e registra o que precisa ser mantido.
 
-Assim, os grupos de processos organizam **o momento do gerenciamento**, enquanto as áreas de conhecimento indicam **o que será gerenciado**.
+Uma mudança para incluir anexos de fotos offline pode parecer pequena, mas afeta armazenamento, sincronização, segurança, experiência do usuário, testes e prazo. A integração exige estimar esses efeitos antes de incorporá-la ao escopo.
 
----
+## Referências bibliográficas
 
-## 🎯 4. Gerenciamento do Escopo do Projeto
-
-O **escopo** representa aquilo que faz parte do projeto, ou seja, **o trabalho que precisa ser realizado para entregar o resultado esperado**.
-
-O professor apresentou os principais processos relacionados ao gerenciamento do escopo:
-
-### 4.1 Planejar o Gerenciamento do Escopo
-
-É o processo de definir como o escopo será **definido, validado e controlado** durante o projeto.
-
-### 4.2 Coletar os Requisitos
-
-Consiste em identificar, documentar e gerenciar as **necessidades das partes interessadas**, para que os objetivos do projeto sejam atendidos.
-
-### 4.3 Definir o Escopo
-
-É o desenvolvimento de uma descrição mais detalhada do **projeto e do produto ou resultado que será entregue**.
-
-### 4.4 Criar a EAP
-
-Consiste em dividir as entregas e o trabalho do projeto em **partes menores e mais fáceis de gerenciar**.
-
-### 4.5 Validar o Escopo
-
-É o processo de formalizar a **aceitação das entregas concluídas**.
-
-### 4.6 Controlar o Escopo
-
-Consiste em acompanhar o andamento do escopo e controlar as **mudanças realizadas na linha de base do escopo**.
-
----
-
-## 📋 5. O que são Requisitos?
-
-Na Gestão de Projetos, um **requisito** é uma necessidade, condição ou característica necessária para que o projeto seja realizado e tenha sucesso.
-
-Os requisitos podem ser classificados de diferentes formas para facilitar seu detalhamento e gerenciamento.
-
-### 📌 Classificação dos Requisitos
-
-**1. Necessidades de negócio**
-
-Representam as necessidades de nível mais alto da organização, como oportunidades, problemas e os motivos que levaram à criação do projeto.
-
-**2. Requisitos das partes interessadas**
-
-Representam as necessidades de uma pessoa ou grupo de pessoas que possuem interesse ou são afetadas pelo projeto.
-
-**3. Requisitos de solução**
-
-Descrevem as características, funções e atributos que o produto, serviço ou resultado deverá possuir para atender às necessidades do negócio e dos interessados.
-
-**4. Requisitos de transição**
-
-Representam capacidades temporárias necessárias para passar do estado atual para o estado futuro.
-
-Exemplos:
-
-- Conversão de dados;
-- Treinamento dos usuários;
-- Preparação para utilização de um novo sistema.
-
-**5. Requisitos de projeto**
-
-Descrevem ações, processos ou outras condições que precisam ser cumpridas pelo projeto.
-
-**6. Requisitos de qualidade**
-
-Definem condições ou critérios necessários para verificar se uma entrega foi concluída com sucesso e atende aos requisitos estabelecidos.
-
----
-
-## 🔎 6. Como Coletar Requisitos?
-
-Existem diferentes técnicas que podem ser utilizadas para descobrir e entender os requisitos de um projeto.
-
-Entre elas estão:
-
-- **Entrevistas;**
-- **Grupos de discussão;**
-- **Brainstorming;**
-- **Mapas mentais;**
-- **Questionários e pesquisas;**
-- **Observações;**
-- **Benchmarking.**
-
-A escolha da técnica depende do tipo de projeto, das partes interessadas e das informações que precisam ser obtidas.
-
----
-
-## 🏗️ 7. Estrutura Analítica do Projeto (EAP)
-
-A **EAP (Estrutura Analítica do Projeto)** é uma decomposição hierárquica do escopo total do trabalho que será realizado pela equipe.
-
-A ideia principal é **quebrar o projeto em partes menores**, facilitando a organização e o gerenciamento.
-
-Cada nível da EAP representa uma definição cada vez mais detalhada do trabalho necessário para alcançar os objetivos e criar as entregas do projeto.
-
-De forma simplificada:
-
-> **Projeto → Entregas principais → Subentregas → Pacotes de trabalho**
-
-A EAP ajuda a visualizar **o que precisa ser entregue e como o trabalho do projeto está dividido**.
-
----
-
-## ⏱️ 8. Marcos do Projeto e Gestão do Tempo
-
-Durante a aula, o professor também explicou o conceito de **marcos do projeto** e sua relação com a gestão do tempo.
-
-Um **marco** representa um ponto importante dentro do projeto, utilizado para identificar um acontecimento ou uma entrega relevante.
-
-### 💍 Exemplo do casamento
-
-O professor utilizou um **casamento** como exemplo para explicar a importância da gestão do tempo.
-
-Um casamento possui diversas atividades que precisam acontecer dentro de determinados prazos, como:
-
-- Escolha do local;
-- Contratação de fornecedores;
-- Convites;
-- Organização da cerimônia;
-- Organização da festa;
-- Preparação dos participantes;
-- Realização do evento.
-
-Essas atividades possuem **prazos e dependências**. Se uma atividade importante atrasar, ela pode acabar afetando outras atividades que dependem dela.
-
-Por isso, fazer uma boa gestão do tempo é importante para evitar que um atraso em determinada atividade provoque um **efeito em cadeia** no restante do projeto.
-
-### ⚠️ Impactos de uma má gestão do tempo
-
-Se o tempo não for bem gerenciado, podem ocorrer:
-
-- Atrasos nas entregas;
-- Acúmulo de atividades;
-- Retrabalho;
-- Aumento de custos;
-- Problemas com fornecedores;
-- Comprometimento de outras etapas;
-- Insatisfação dos envolvidos;
-- Atraso na entrega final do projeto.
-
----
-
-## 🔗 9. Dependências entre Atividades
-
-Outro ponto explicado pelo professor foram as **dependências entre as atividades**.
-
-Em um projeto, algumas atividades não podem começar ou terminar sem que outra atividade aconteça primeiro.
-
-Por exemplo:
-
-> **Atividade A → Atividade B → Atividade C**
-
-Nesse caso, a atividade B depende da atividade A. Portanto, se a atividade A atrasar, a atividade B também poderá ser afetada, causando impacto nas atividades seguintes.
-
-As dependências são importantes para montar um cronograma realista e entender **a ordem em que as atividades precisam acontecer**.
-
----
-
-## 📅 10. O Cronograma como um Artefato Vivo
-
-O professor destacou que o **cronograma não é um documento que é criado uma vez e nunca mais alterado**.
-
-O cronograma deve ser considerado um **artefato vivo do projeto**, pois precisa ser acompanhado e atualizado conforme o projeto evolui.
-
-Durante a execução podem acontecer situações inesperadas, mudanças de prazo, alterações de atividades ou outros problemas que exigem ajustes no planejamento.
-
-Por isso:
-
-> **Planejar o cronograma é importante, mas acompanhar e atualizar o cronograma durante o projeto também é fundamental.**
-
-O cronograma deve refletir a **situação atual do projeto**, permitindo que a equipe acompanhe o que já foi realizado, o que está em andamento e o que ainda precisa ser feito.
-
----
-
-## 📝 11. Atividade da Aula
-
-Como atividade, foi solicitado elaborar a **Estrutura Analítica do Projeto (EAP) do Projeto FieldOps**.
-
-Para isso, devem ser consideradas as documentações e os artefatos disponíveis do projeto.
-
-O diagrama deve apresentar as principais informações relacionadas à **estrutura do projeto e seus requisitos**.
-
-O documento deverá ser organizado e entregue no **repositório individual do GitHub**.
-
----
-
-## 📌 12. Resumo dos Principais Conceitos
-
-Nesta aula foram estudados:
-
-- **Processos:** atividades que transformam entradas em resultados.
-- **Grupos de Processos:** Iniciação, Planejamento, Execução, Monitoramento e Controle e Encerramento.
-- **Áreas de Conhecimento:** indicam os aspectos que precisam ser gerenciados no projeto.
-- **Escopo:** define o trabalho que faz parte do projeto.
-- **Requisitos:** necessidades e condições que devem ser atendidas pelo projeto.
-- **EAP:** divide o trabalho do projeto em partes menores e gerenciáveis.
-- **Marcos:** pontos importantes utilizados para acompanhar o projeto.
-- **Dependências:** relação entre atividades que determina a ordem ou condição para sua realização.
-- **Cronograma:** ferramenta de planejamento e acompanhamento do tempo, que deve ser atualizado conforme o projeto evolui.
-
----
-
-## 📚 13. Referências
-
-1. CARVALHO, Fábio Câmara Araújo de. **Gestão de projetos**. 2. ed. São Paulo, SP: Pearson, 2018. E-book. Disponível em: <https://plataforma.bvirtual.com.br>. Acesso em: 30 maio 2025.
-
-2. SOUZA, Carla Patricia da Silva. **Gestão de projetos**. 1. ed. São Paulo: Contentus, 2020. E-book. Disponível em: <https://plataforma.bvirtual.com.br>. Acesso em: 30 maio 2025.
-
-3. BUENO, Gislaine. **Gestão de projetos para cibersecurity**. 1. ed. São Paulo: Contentus, 2020. E-book. Disponível em: <https://plataforma.bvirtual.com.br>. Acesso em: 30 maio 2025.
-
-4. BUNGART, José Wagner; POSSARLE, Roberto. **Metodologia de projetos: conceitos, planejamento e desenvolvimento**. São Paulo: SENAI-SP Editora, 2017.
-
-5. CRUZ, Fábio. **Scrum e Agile em projetos**. 2. ed. Rio de Janeiro: Brasport, 2018. E-book.
-
-6. CRUZ, Fábio. **Scrum e PMBOK unidos no gerenciamento de projetos**. Rio de Janeiro: Brasport, 2013. E-book.
-
-7. FINOCCHIO JÚNIOR, José. **Project Model Canvas: gerenciamento de projetos sem burocracia**. Rio de Janeiro: Elsevier, 2013.
-
-8. SUTHERLAND, Jeffrey Victor. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. 2. ed. rev. São Paulo: Leya, 2016.
+- PROJECT MANAGEMENT INSTITUTE. *Um guia do conhecimento em gerenciamento de projetos (Guia PMBOK)*. 6. ed. Newtown Square: PMI, 2017.
+- CARVALHO, Fábio Câmara Araújo de. *Gestão de projetos*. 2. ed. São Paulo: Pearson, 2018.
+- CRUZ, Fábio. *Scrum e PMBOK unidos no gerenciamento de projetos*. Rio de Janeiro: Brasport, 2013.
