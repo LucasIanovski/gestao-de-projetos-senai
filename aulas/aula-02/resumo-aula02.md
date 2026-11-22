@@ -1,81 +1,60 @@
-# 📝 Anotações de Aula: Aula 02 — Gerenciamento da Integração e Termo de Abertura (TAP)
-**Disciplina:** Gerenciamento de Projetos  
-**Professor:** Me. Deivison S. Takatu[cite: 2]  
-**Visão do Aluno:** Anotações da Aula 02 (Slide + Explicações do Professor em Sala)
+# Resumo da Aula 02 — Fundamentos do gerenciamento de projetos
 
----
+**Professor:** Prof. Me. Deivison S. Takatu
 
-## 1. Hierarquia Organizacional: Projeto, Programa e Portfólio
+**Disciplina:** Gestão de Projetos
 
-Na Aula 02, o professor apresentou como a organização divide e gerencia suas iniciativas em diferentes níveis:
+## Fundamentos
 
-* **Projeto**: Ação individual e pontual focada em entregar um resultado específico[cite: 2].
-* **Programa**: Conjunto de projetos **correlacionados** e gerenciados de forma coordenada para obter benefícios e controle que não existiriam se fossem geridos isoladamente.
-* **Portfólio**: O nível mais alto de gestão estratégica. Agrupa programas, projetos e operações executados em conjunto para atingir os **objetivos estratégicos da organização**.
+Projeto é um esforço temporário para criar um produto, serviço ou resultado único. Para organizar uma iniciativa, é importante entender sua justificativa, objetivo, entregas, pessoas envolvidas, prazo, recursos e riscos.
 
----
+O gerenciamento de projetos aplica conhecimentos, habilidades, ferramentas e técnicas ao trabalho do projeto. Ele ajuda a coordenar as atividades e a responder perguntas práticas: o que precisa ser feito, quem fará, quando, com quais recursos e como saberemos se o resultado foi aceito.
 
-## 2. Visão Geral do PMBOK (6ª Edição)
+Projetos, programas e portfólios têm níveis diferentes. Um programa coordena projetos relacionados para obter benefícios conjuntos. Um portfólio reúne e prioriza projetos, programas e outras iniciativas segundo os objetivos estratégicos da organização.
 
-* Padrão global do PMI (*Project Management Institute*)[cite: 2].
-* Organizado em **47 processos** distribuídos em **10 Áreas do Conhecimento** (Integração, Escopo, Cronograma, Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições e Engajamento de Stakeholders)[cite: 2].
+## Organização, estratégia e valor
 
----
+Projetos devem estar ligados às necessidades e prioridades da organização. A estratégia orienta objetivos; o portfólio ajuda a selecionar iniciativas; programas coordenam projetos relacionados; os projetos produzem entregas que podem gerar benefícios e valor.
 
-## 3. Gerenciamento da Integração do Projeto
+O **PMO** (escritório de gerenciamento de projetos) pode apoiar a organização com padrões, modelos, orientação, acompanhamento e compartilhamento de boas práticas. O papel e o grau de controle do PMO dependem da organização.
 
-A Integração é a área responsável por unir, consolidar e articular todas as outras áreas do projeto para que caminhem em sintonia[cite: 2].
+Projetos diferem de operações: o projeto é temporário e busca uma mudança ou resultado único; a operação é contínua e mantém o funcionamento recorrente. Um projeto pode criar uma solução que depois passa a fazer parte das operações.
 
-> ✈️ **Exemplo Prático de Sala (A viagem para Buenos Aires):**  
-> O professor utilizou a viagem dele para Buenos Aires como exemplo de integração. Planejar passagens, hospedagem, passeios, orçamento e resolver imprevistos no meio do caminho exige articular tudo de forma integrada para que o objetivo final da viagem seja alcançado com sucesso.
+## Gerente de projetos
 
-### As 6 Etapas do Processo de Integração:
+O gerente coordena o trabalho e as partes interessadas, acompanha as entregas e facilita decisões. Precisa combinar conhecimentos de gerenciamento com comunicação, liderança, negociação, colaboração e resolução de conflitos. Sua atuação deve considerar o contexto e a estrutura organizacional.
 
-1. **Desenvolver o Termo de Abertura do Projeto (TAP)**:  
-   Documento formal que diz o que é o projeto, como será feito, autoriza seu início e concede autoridade ao gerente de projetos[cite: 2].
-2. **Desenvolver o Plano de Gerenciamento do Projeto**:  
-   Definição de todos os processos, regras, metodologias e cronogramas que guiarão a execução.
-3. **Orientar e Gerenciar o Trabalho do Projeto**:  
-   Execução prática das atividades do plano. É a liderança em ação.  
-   * *Anotação*: Destaque para a **importância fundamental de ter uma liderança ativa** para conduzir o projeto e manter o time alinhado.
-4. **Monitorar e Controlar o Trabalho do Projeto**:  
-   Acompanhar, medir e registrar continuamente o progresso do projeto em relação ao planejado.
-5. **Realizar o Controle Integrado de Mudanças**:  
-   Avaliar e aprovar alterações de forma organizada.  
-   * *Conceito de Sala*: Apresentou o **GMUDE** (Gerenciamento de Mudanças), processo formal para controlar alterações e evitar desequilíbrio no escopo, prazo ou custos.
-6. **Encerrar o Projeto ou Fase**:  
-   Finalização formal das atividades.  
-   * *Foco*: Organizar as informações e registrar as **Lições Aprendidas**, garantindo que o conhecimento adquirido seja salvo e reaproveitado em projetos futuros.
+## Para lembrar
 
----
+- Projeto entrega um resultado único; programa coordena projetos relacionados; portfólio prioriza iniciativas estrategicamente.
+- Gerenciamento organiza o trabalho para cumprir requisitos e gerar benefícios.
+- A forma de conduzir um projeto depende do ambiente, da governança e das pessoas envolvidas.
+- Entregar dentro de prazo e orçamento não garante, por si só, que o projeto gerou valor.
 
-## 4. O Termo de Abertura do Projeto (TAP / Project Charter)
+## Fontes do professor
 
-### O que é e para que serve?
-O TAP é o documento formal que oficializa a existência do projeto e dá poder ao Gerente de Projetos para utilizar os recursos da organização[cite: 2].
+- Takatu, Deivison S. [Aula 02 — Fundamentos do Gerenciamento de Projetos (PDF)](https://github.com/deivisontakatu/aula-gestao-projetos/blob/main/Aulas/Aula%2002%20-%20Fundamentos%20do%20Gerenciamento%20de%20Projetos.pdf).
+- Takatu, Deivison S. [01 — Introdução (material de apoio)](https://github.com/deivisontakatu/aula-gestao-projetos/blob/main/01%20-%20Introdu%C3%A7%C3%A3o.md).
+- Takatu, Deivison S. [02 — Influências Organizacionais e Ciclo de Vida do Projeto](https://github.com/deivisontakatu/aula-gestao-projetos/blob/main/02%20-%20Influ%C3%AAncias%20Organizacionais%20e%20Ciclo%20de%20Vida%20do%20Projeto.md).
 
-> 🚗 **Exemplo Prático de Sala (O Colaborador da Toyota):**  
-> Se eu for um funcionário da Toyota com uma grande ideia de projeto em mente, não posso simplesmente sair executando ou gastando o dinheiro da empresa. É preciso seguir um processo formal:
-> 1. Definir claramente o objetivo e a justificativa da ideia.
-> 2. Elaborar o TAP e submeter para a **aprovação** da diretoria/patrocinadores.
-> 3. Identificar formalmente o **Gerente do Projeto** e os responsáveis.
-> 4. Após a aprovação oficial, iniciar a utilização dos recursos para o projeto.
+## Meu entendimento da aula
 
-### Estrutura Essencial do TAP:
-* **Objetivo e Justificativa**: A razão de existir do projeto e qual necessidade atende[cite: 2].
-* **Entregas e Requisitos**: O que de fato será entregue e critérios de aceite[cite: 2].
-* **Premissas e Restrições**: Condições assumidas como verdade e limitações (prazos, orçamentos, etc.)[cite: 2].
-* **Stakeholders e Responsáveis**: Pessoas e setores envolvidos ou impactados[cite: 2].
-* **Gerente do Projeto**: Indicação formal do líder e sua autoridade[cite: 2].
-* **Cronograma e Orçamento Estimados**: Prazos macro e estimativas orçamentárias iniciais[cite: 2].
+Os fundamentos ajudam a justificar por que um projeto deve ser iniciado e como ele se encaixa nas prioridades da organização. Projetos transformam objetivos em entregas; programas coordenam projetos relacionados para alcançar benefícios conjuntos; portfólios ajudam a escolher e priorizar iniciativas diante de recursos limitados. A estrutura organizacional, sua cultura, seus processos e a disponibilidade das pessoas podem facilitar ou limitar o trabalho (Carvalho, 2018; Souza, 2020).
 
----
+O ciclo de vida representa como o projeto se desenvolve do início ao encerramento. Ele não deve ser confundido com os grupos de processos: os grupos descrevem atividades de gerenciamento que podem se repetir ou se sobrepor durante as fases. A governança define como decisões e responsabilidades são distribuídas. Stakeholders incluem quem pode afetar, ser afetado ou acreditar que foi afetado pelo projeto; suas expectativas influenciam a definição de sucesso.
 
-## 🛠️ 5. Atividades Práticas da Disciplina
+### Correção de uma informação do resumo anterior
 
-Deverão ser elaborados e publicados no **GitHub** dois documentos do tipo TAP[cite: 2]:
+O resumo antigo dizia que a 6ª edição do PMBOK tinha 47 processos. Essa informação estava incorreta: a 5ª edição tinha 47 processos e a 6ª edição passou a ter 49, mantendo 10 áreas de conhecimento. O PMI registra a 6ª edição como publicada em 2017. A atualização da matéria não deve ser confundida com o conteúdo histórico apresentado em aula (PMI, 2017).
 
-1. **TAP 1**: Projeto Integrador do semestre (**PII**)[cite: 2].
-2. **TAP 2**: **Projeto FieldOps**[cite: 2].
+## Exemplo de aplicação no FieldOps
 
-*Conteúdo obrigatório dos TAPs: Objetivo, justificativa, entregas, requisitos, premissas, restrições, stakeholders, gerentes/responsáveis e cronograma estimado[cite: 2].*
+O FieldOps pode ser tratado como uma iniciativa alinhada à necessidade de organizar inspeções e registros de não conformidade. Técnicos usam o sistema para registrar o trabalho; supervisores acompanham execução e pendências; administradores podem cuidar de cadastros e acessos. Esses grupos têm interesses e influência diferentes. Antes de iniciar uma melhoria, a equipe pode mapear quem aprova mudanças, quem usa o fluxo diariamente, quais sistemas dependem dele e quais restrições técnicas ou operacionais afetam a entrega.
+
+Se a melhoria envolver aplicativo móvel, painel web e API, a equipe pode organizar as entregas como projetos ou frentes relacionadas sob uma visão de programa. Essa separação facilita acompanhar dependências sem perder o benefício comum: um processo de inspeção confiável e utilizável.
+
+## Referências bibliográficas
+
+- CARVALHO, Fábio Câmara Araújo de. *Gestão de projetos*. 2. ed. São Paulo: Pearson, 2018.
+- SOUZA, Carla Patricia da Silva. *Gestão de projetos*. São Paulo: Contentus, 2020.
+- PROJECT MANAGEMENT INSTITUTE. *Um guia do conhecimento em gerenciamento de projetos (Guia PMBOK)*. 6. ed. Newtown Square: PMI, 2017.
